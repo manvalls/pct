@@ -1,0 +1,20 @@
+{
+  "name": "pct",
+  "version": "1.0.0",
+  "description": "Percent-encoding utilities",
+  "main": "main.js",
+  "dependencies": {
+
+  },
+
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/manvalls/fix-pct.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manvalls/fix-pct/issues"
+  },
+  "author": "Manuel Valls Fernández <manolo@vlrz.es>",
+  "license": "LGPL-3.0"
+}
