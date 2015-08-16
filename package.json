@@ -10,10 +10,10 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/manvalls/fix-pct.git"
+    "url": "git://github.com/manvalls/pct.git"
   },
   "bugs": {
-    "url": "https://github.com/manvalls/fix-pct/issues"
+    "url": "https://github.com/manvalls/pct/issues"
   },
   "author": "Manuel Valls Fernández <manolo@vlrz.es>",
   "license": "LGPL-3.0"
