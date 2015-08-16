@@ -1,13 +1,9 @@
 {
   "name": "pct",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Percent-encoding utilities",
   "main": "main.js",
-  "dependencies": {
-
-  },
-
-
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git://github.com/manvalls/pct.git"
