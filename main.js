@@ -17,8 +17,20 @@ function encode(uri){
   return encodeURI(decode(uri));
 }
 
+function decodeComponent(uri){
+  return decodeURIComponent(fix(uri));
+}
+
+function encodeComponent(uri){
+  return encodeURIComponent(decodeComponent(uri));
+}
+
 /*/ exports /*/
 
 exports.fix = fix;
+
 exports.encode = encode;
 exports.decode = decode;
+
+exports.encodeComponent = encodeComponent;
+exports.decodeComponent = decodeComponent;
